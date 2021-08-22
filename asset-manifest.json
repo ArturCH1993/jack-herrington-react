@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jack-herrington-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/jack-herrington-react/static/js/main.69b78789.chunk.js",
+    "main.js.map": "/jack-herrington-react/static/js/main.69b78789.chunk.js.map",
+    "runtime-main.js": "/jack-herrington-react/static/js/runtime-main.d14458a3.js",
+    "runtime-main.js.map": "/jack-herrington-react/static/js/runtime-main.d14458a3.js.map",
+    "static/js/2.cd41cefa.chunk.js": "/jack-herrington-react/static/js/2.cd41cefa.chunk.js",
+    "static/js/2.cd41cefa.chunk.js.map": "/jack-herrington-react/static/js/2.cd41cefa.chunk.js.map",
+    "static/js/3.78d36f8b.chunk.js": "/jack-herrington-react/static/js/3.78d36f8b.chunk.js",
+    "static/js/3.78d36f8b.chunk.js.map": "/jack-herrington-react/static/js/3.78d36f8b.chunk.js.map",
+    "index.html": "/jack-herrington-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/jack-herrington-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.cd41cefa.chunk.js.LICENSE.txt": "/jack-herrington-react/static/js/2.cd41cefa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jack-herrington-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d14458a3.js",
+    "static/js/2.cd41cefa.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.69b78789.chunk.js"
+  ]
+}
